@@ -1,0 +1,192 @@
+Uri: http://www.surya15.cf/
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\index.html
+Content Type: text/html
+
+Uri: http://www.surya15.cf/static/css/bootstrap.min.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/css/normalize.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\normalize.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/css/animate.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\animate.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/css/transition-animations.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\transition-animations.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/css/owl.carousel.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/css/magnific-popup.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/css/main-green.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\main-green.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/js/init.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\init.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/jquery-2.1.3.min.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\jquery-2.1.3.min.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/modernizr.custom.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/images/photo.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\photo.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/service/programming.png
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\service\programming.png
+Content Type: image/png
+
+Uri: http://www.surya15.cf/static/images/service/analytic.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\service\analytic.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/service/creativity_icon.png
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\service\creativity_icon.png
+Content Type: image/png
+
+Uri: http://www.surya15.cf/static/images/service/illustration.png
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\service\illustration.png
+Content Type: image/png
+
+Uri: http://www.surya15.cf/static/images/portfolio/1.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/portfolio/2.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/portfolio/3.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/portfolio/5.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/portfolio/7.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\7.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/portfolio/8.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\8.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/portfolio/9.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\9.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/images/portfolio/10.jpg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\portfolio\10.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.surya15.cf/static/js/bootstrap.min.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/pages-switcher.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\pages-switcher.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/imagesloaded.pkgd.min.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/validator.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\validator.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/jquery.shuffle.min.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\jquery.shuffle.min.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/masonry.pkgd.min.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/owl.carousel.min.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/jquery.magnific-popup.min.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/jquery.hoverdir.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\jquery.hoverdir.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/jquery.googlemap.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\jquery.googlemap.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/js/main.js
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\js\main.js
+Content Type: application/javascript
+
+Uri: http://www.surya15.cf/static/css/font-awesome.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/css/material-design-iconic-font.min.css
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\css\material-design-iconic-font.min.css
+Content Type: text/css
+
+Uri: http://www.surya15.cf/static/images/main_bg.png
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\main_bg.png
+Content Type: image/png
+
+Uri: http://www.surya15.cf/static/images/sp_main_bg.png
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\images\sp_main_bg.png
+Content Type: image/png
+
+Uri: http://www.surya15.cf/static/fonts/fontawesome-webfont.eot
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.surya15.cf/static/fonts/fontawesome-webfont-1.eot
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.surya15.cf/static/fonts/fontawesome-webfont.woff2
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://www.surya15.cf/static/fonts/fontawesome-webfont.woff
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.surya15.cf/static/fonts/fontawesome-webfont.ttf
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\fontawesome-webfont.ttf
+Content Type: 
+
+Uri: http://www.surya15.cf/static/fonts/fontawesome-webfont.svg
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.surya15.cf/static/fonts/Material-Design-Iconic-Font.woff2
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\Material-Design-Iconic-Font.woff2
+Content Type: 
+
+Uri: http://www.surya15.cf/static/fonts/Material-Design-Iconic-Font.woff
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\Material-Design-Iconic-Font.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.surya15.cf/static/fonts/Material-Design-Iconic-Font.ttf
+File Name: C:\Users\Admin\Desktop\web\www.surya15.cf\static\fonts\Material-Design-Iconic-Font.ttf
+Content Type: 
+
